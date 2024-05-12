@@ -1,6 +1,6 @@
 ## Hello👋 I'm Sunil Samuel👩🏻‍💻
 
-I am a builder at heart. Current improving customer's online experiences @Walmart   at [Ghost.org](https://ghost.org/)
+I am a builder at heart. Current improving customer's online experiences [@Walmart](https://walmart.org/)
 
 ### Currently I am working with ...
 
